@@ -19,7 +19,7 @@ This repo provides:
 
 1. <strong>All Images (Raw) (14T)</strong> (will be available later)
 
-2. <strong>Meta Data (1.2G)</strong> (https://googledrive)
+2. <strong>Meta Data (1.2G)</strong> [Download](https://drive.google.com/file/d/1hTsyMd9hESFD7JOppW6v8QPUx_4tRO_K/view?usp=sharing)
 
 This is the meta data of Placepedia, including two parts: the meta data of location and the caption of place images.
 
@@ -27,7 +27,7 @@ This is the meta data of Placepedia, including two parts: the meta data of locat
 
 <em>Folder image_caption</em>: includes captions for place images.
 
-3. <strong>Places-Fine (18G)</strong> (https://googledrive)
+3. <strong>Places-Fine (18G)</strong> [Download](https://drive.google.com/file/d/1gLICeacMq3eqaH4NIRaYGxOKNe3BPIHI/view?usp=sharing)
 
 This directory is the dataset of Places-Fine, including five folders and seven meta data, with 1044 places and 290K images. The training/validation/testing set have 444/200/400 places with 110K/60K/120K images respectively, which are tagged with 50 categories, 10 functions, 50 cities, and 34 countries.
 
