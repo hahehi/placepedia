@@ -1,4 +1,7 @@
-# placepedia
+# Placepedia Project
+
+<img src='./assets/intro.png' width=800>
+
 This repo provides:
 1. a large-scale place image dataset with multi-faceted annotations,
 2. several benchmarks based on different-level place recognition,
@@ -9,10 +12,9 @@ This repo provides:
 [Placepedia: Comprehensive Place Understanding with Multi-Faceted Annotations](https://arxiv.org/abs/2007.03777), ECCV 2020 [[Home Page](https://hahehi.github.io/placepedia.html)]
 
 
-<!--## Requirements
+## Requirements
 * Python >= 3.6
 * PyTorch >= 0.4.0
--->
 
 
 ## Get datasets
