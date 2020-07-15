@@ -1,4 +1,4 @@
-# Placepedia Project
+# Placepedia
 
 <img src='./assets/intro.png' width=800>
 
@@ -82,5 +82,13 @@ Details can be found in the paper [Placepedia](https://arxiv.org/pdf/2007.03777.
 | Loss | Focal</strong> | <strong>55.03</strong> | 67.38 | 25.27 | 55.48 | 67.62 | <strong>97.53</strong> | 18.67 | 40.87 | 24.73 | <strong>51.46</strong> |
 
 
-<!--## Citation
--->
+## License and Citation
+The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
+```
+@inproceedings{Placepedia,
+  title={Placepedia: Comprehensive Place Understanding with Multi-Faceted Annotations},
+  author={Huang, Huaiyi and Zhang, Yuqi and Huang, Qingqiu and Guo, Zhengkui and Liu, Ziwei and Lin, Dahua},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2020}
+}
+```
